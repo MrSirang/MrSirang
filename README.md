@@ -1,3 +1,4 @@
+![logo](https://github.com/MrSirang/MrSirang/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Sirang</h1>
 <h3 align="center">A passionate full Stack developer from Pakistan</h3>
 
