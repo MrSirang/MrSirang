@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **advanced system design, DevOps practices, and cloud deployment to level up my full stack skills.**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/hamxasirang](https://muhammadhamzasirang.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://muhammadhamzasirang.netlify.app/]()
 
 - 💬 Ask me about **Frontend magic with React.. Backend APIs with Node.js**
 
